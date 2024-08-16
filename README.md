@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer - currently studing @alx_africa<br>Looking to collaborate with Software Engineers<br>Currently learning Python
+Software Engineer(Frontend) - currently studing @alx_africa<br>Looking to collaborate with Software Engineers<br>Currently learning Web development
 
 
 ## 🌐 Socials:
